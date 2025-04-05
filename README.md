@@ -2,6 +2,11 @@
 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=karladaiany&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</div>
+
+##
+
+<div>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karladaiany&layout=compact&theme=radical&langs_count=16" />
 </div>
 
