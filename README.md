@@ -1,11 +1,26 @@
 ## Olá, seja bem vindo(a)! Eu me chamo Karla Daiany! 👋👩🏻‍💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=karladaiany&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karladaiany&layout=compact&theme=radical&langs_count=16" />
+</div>
+
+##
+
+<div style="display: inline_block"><br>
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />     
+    <i class="devicon-javascript-plain colorido "></i>
+</div>
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/karla-daiany-guimaraes-camargo-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karladaiany/karladaiany/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karladaiany/karladaiany/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karladaiany/karladaiany/output/github-contribution-grid-snake.svg">
+  <img height=200 align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/karladaiany/karladaiany/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--
