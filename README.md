@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá, seja bem vindo(a)! Eu me chamo Karla Daiany! 👋👩🏻‍💻
+
+![Snake animation](https://github.com/karladaiany/karladaiany/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **karladaiany/karladaiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
