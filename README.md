@@ -12,9 +12,8 @@
 
 ##
 
-<div style="display: inline_block"><br>
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />     
-    <i class="devicon-javascript-plain colorido "></i>
+<div>
+    <img href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 </div>
 
 ##
