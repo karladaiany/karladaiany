@@ -1,9 +1,10 @@
-## Olá, seja bem vindo(a)! Eu me chamo Karla Daiany! 👋👩🏻‍💻
+## Olá, seja bem vindo(a)! Eu me chamo Karla Daiany! 👋👩🏻‍💻🤖
 
 <div>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karladaiany&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img width="409" height="409" alt="Karla_avatar" src="https://github.com/user-attachments/assets/7f519554-4e74-4126-8731-29f0e9b22e18" />    
 </div>
 
+ 
 ##
 
 <div>
